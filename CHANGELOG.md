@@ -2,6 +2,7 @@
 
 This document records significant modifications made to this Personal Knowledge Vault by the LLM agent.
 
+*   **2025-11-16:** Regenerated `Vault Index.md` to provide a complete and up-to-date overview of all notes.
 *  **2025-11-14:** Updated Operating Systems in `Resources/OS` to include `/Debian` 
 * **2025-11-14:** Updated Operating Systems in `Resources/OS` to Include `/Linux` and move `Resources/OS/Linux/Kali`
 * **2025-10-25:** Created `Resources/Tools/Warp/Warp.md` to document troubleshooting for the Warp terminal on Linux, detailing the hardware incompatibility on Arch Linux and the working solution on Debian-based systems.
@@ -68,7 +69,7 @@ This document records significant modifications made to this Personal Knowledge 
 *   **2025-08-15:** Began Tier 4 expansion. Created notes for Cross-Cutting Concerns ([[Containerization/Docker/Docker]], [[API Design/API Design Principles]], [[Design Patterns/Design Patterns]]) and Future Exploration ([[WebAssembly/WebAssembly]], [[Serverless Architectures/Serverless Architectures]]).
 *   **2025-08-15:** Expanded [[Containerization/Docker/Docker]] note with advanced concepts, multi-stage builds, Docker Compose, and language-specific examples.
 *   **2025-08-15:** Refactored Docker documentation into folder-based atomic notes.
-*   **2025-08-15:** Completed deeper dives for Tier 3 libraries: [[Hugging Face Transformers]], [[LangChain]], [[Scapy]], [[Nmap]], [[Express.js]].
+*   **2_025-08-15:** Completed deeper dives for Tier 3 libraries: [[Hugging Face Transformers]], [[LangChain]], [[Scapy]], [[Nmap]], [[Express.js]].
 *   **2025-08-15:** Created `Resources/Concepts/Linux Application Packaging/Linux Application Packaging.md` to compare Flatpak, Snap, and AppImage.
 *   **2025-08-15:** Created `Resources/Concepts/Linux Application Packaging/Flatpak/Flatpak.md` documenting Flatpak.
 *   **2025-08-15:** Created `Resources/Concepts/Linux Application Packaging/Snap/Snap.md` documenting Snap.

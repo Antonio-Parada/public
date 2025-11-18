@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "OS Overview"
             }
+          },
+          {
+            "id": "83fea6982787a336",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec818dc1aa00547f",
+  "active": "83fea6982787a336",
   "lastOpenFiles": [
     "CHANGELOG.md",
     "Resources/OS/Linux/Debian",

@@ -30,6 +30,15 @@ A high-level, general-purpose programming language.
 *   [[Libraries/Scikit-learn]]
 *   [[Libraries/Requests]]
 
+### AI & Machine Learning
+*   [[Hugging Face Transformers]]
+*   [[LangChain]]
+*   [[TensorFlow]]
+*   [[PyTorch]]
+
+### Cybersecurity
+*   [[Scapy]]
+
 ## Advanced Topics
 
 *   [[Error Handling and Debugging]]
