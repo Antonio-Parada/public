@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/OS/OS Overview.md",
+                "file": "Vault Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS Overview"
-            }
-          },
-          {
-            "id": "83fea6982787a336",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "Vault Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83fea6982787a336",
+  "active": "2a059f4329b6daab",
   "lastOpenFiles": [
+    "Resources/OS/OS Overview.md",
     "CHANGELOG.md",
     "Resources/OS/Linux/Debian",
     "Resources/OS/Linux",
