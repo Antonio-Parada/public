@@ -1,8 +1,6 @@
 [
   "obsidian-git",
   "templater-obsidian",
-  "obsidian-linter",
-  "smart-connections",
   "make-md",
   "gemini-scribe"
 ]
