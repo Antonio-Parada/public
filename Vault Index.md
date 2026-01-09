@@ -1,0 +1,182 @@
+# Vault Index
+
+This index provides a comprehensive overview of all notes within the vault, organized according to the PARA method.
+
+## Projects
+- [[AI Chatbot]]
+- [[Node]]
+- [[Python Data Analysis Script]]
+- AI
+  - [[Agentic Docs Scraper]]
+  - [[Gemini CLI Env]]
+  - [[ScrapeGraphAI]]
+- Software Development
+  - [[Dotfiles Repository]]
+  - [[Roller Coaster Tycoon Web]]
+- Web Scraping
+  - Firecrawl
+    - [[Firecrawl]]
+
+## Areas
+- [[Social]]
+- AI & LLMs
+  - [[AI & LLMs]]
+- Content Creation
+  - [[Content Creation]]
+- Cybersecurity
+  - [[Cybersecurity]]
+- GPT
+  - [[GPT]]
+- Linux Customization
+  - [[Linux Customization]]
+  - Configuration Management Scripts
+    - [[Configuration Management Scripts]]
+  - Custom Setups
+    - [[Kali i3 Neovim Setup]]
+  - Dotfiles Management
+    - [[Dotfiles Management]]
+  - Neovim
+    - [[Lua Configuration]]
+    - [[Neovim]]
+- Software Development
+  - [[Software Development]]
+
+## Resources
+- Concepts
+  - [[Concepts Overview]]
+  - API Design
+    - [[API Design Principles]]
+  - Atomic Notes
+    - [[Atomic Notes]]
+  - Containerization
+    - Docker
+      - [[Docker]]
+      - Advanced Dockerfile Concepts
+        - [[Advanced Dockerfile Concepts]]
+      - Benefits and Use Cases
+        - [[Benefits and Use Cases]]
+  - Design Patterns
+    - [[Design Patterns]]
+  - DevOps
+    - [[DevOps]]
+  - Dotfiles
+    - [[Dotfiles]]
+  - Interlinking
+    - [[Interlinking]]
+  - Session Persistence
+    - [[Session Persistence]]
+- Languages
+  - [[Languages Overview]]
+  - Bash
+    - [[Bash]]
+    - [[Basic Syntax]]
+    - [[Command Execution]]
+    - [[Conditional Logic]]
+    - [[Functions]]
+    - [[Loops]]
+    - [[Scripting Best Practices]]
+  - CPP
+    - [[CPP]]
+    - [[Basic Syntax]]
+    - [[Build Process]]
+    - [[Control Flow]]
+    - [[Data Structures]]
+    - [[Functions]]
+    - [[OOP]]
+    - Concepts
+      - [[Memory Management]]
+      - [[Templates]]
+    - STL
+      - [[STL]]
+  - CSharp
+    - [[CSharp]]
+    - [[Basic Syntax]]
+    - [[Control Flow]]
+    - [[Data Structures]]
+    - [[Functions]]
+    - [[OOP]]
+    - [[Projects and Assemblies]]
+    - Base Class Library
+      - [[Base Class Library]]
+    - Concepts
+      - [[Async and Await]]
+      - [[Garbage Collector]]
+      - [[LINQ]]
+  - JavaScript
+    - [[JavaScript]]
+    - [[JavaScript Frameworks]]
+    - [[Basic Syntax]]
+    - [[Control Flow]]
+    - [[Data Structures]]
+    - [[Functions]]
+    - [[Modules]]
+    - Concepts
+      - [[Asynchronicity]]
+      - [[DOM Manipulation]]
+    - Frameworks
+      - Express.js
+        - [[Express.js]]
+    - Runtime
+      - Node.js
+        - [[Node.js]]
+  - Lua
+    - [[Lua]]
+    - [[Basic Syntax]]
+    - [[Control Flow]]
+    - [[Functions]]
+    - [[Modules and Packages]]
+    - [[Tables]]
+  - Python
+    - [[Python]]
+    - [[Basic Syntax]]
+    - [[Control Flow]]
+    - [[Data Types]]
+    - [[Error Handling and Debugging]]
+    - [[File I_O]]
+    - [[Functions]]
+    - [[Modules and Packages]]
+    - [[OOP]]
+    - Libraries
+      - Matplotlib
+        - [[Matplotlib]]
+      - NumPy
+        - [[NumPy]]
+      - Pandas
+        - [[Pandas]]
+- OS
+  - [[OS Overview]]
+  - Linux
+    - Kali
+      - [[Kali]]
+- Software Configuration
+  - i3 and Chrome Remote Desktop
+    - [[i3 and Chrome Remote Desktop Setup Guide]]
+    - [[i3 and Chrome Remote Desktop Technology]]
+- Tools
+  - [[Tools Overview]]
+  - Autoprefixer
+    - [[Autoprefixer]]
+  - BrowserTools-MCP
+    - [[BrowserTools-MCP]]
+    - [[Quick-Usage-Guide]]
+  - ESLint
+    - [[ESLint]]
+  - i3-resurrect
+    - [[i3-resurrect]]
+  - Metasploit
+    - [[Metasploit]]
+  - Nmap
+    - [[Nmap]]
+  - Scapy
+    - [[Scapy]]
+  - tmux
+    - [[tmux]]
+  - tmux-resurrect
+    - [[tmux-resurrect]]
+  - Warp
+    - [[Warp]]
+  - Zsh
+    - [[Zsh]]
+
+## Archive
+- [[Archive]]
