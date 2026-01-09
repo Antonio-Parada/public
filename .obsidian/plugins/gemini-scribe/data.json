@@ -3,7 +3,7 @@
   "chatModelName": "gemini-2.5-flash",
   "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-lite-latest",
-  "imageModelName": "gemini-3-pro-image-preview",
+  "imageModelName": "gemini-3-pro-preview",
   "summaryFrontmatterKey": "summary",
   "userName": "User",
   "chatHistory": false,
@@ -15,7 +15,7 @@
   "modelDiscovery": {
     "enabled": true,
     "autoUpdateInterval": 24,
-    "lastUpdate": 1767452834699,
+    "lastUpdate": 1767990944595,
     "fallbackToStatic": true
   },
   "allowSystemPromptOverride": false,

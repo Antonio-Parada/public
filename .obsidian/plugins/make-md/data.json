@@ -39,16 +39,13 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//gemini-scribe/gemini-scribe/Prompts",
-    "//01-Projects/01-Projects/ADB/01-Projects/ADB/Wireless ADB/01-Projects/ADB/Wireless ADB/Screencasting & Control App",
     "//04-Archives",
     "//gemini-scribe/gemini-scribe/Agent-Sessions",
-    "//01-Projects/01-Projects/Cross-Device",
-    "//03-Resources/03-Resources/Gemini",
     "//02-Areas",
+    "//Tags",
+    "//03-Resources/03-Resources/Gemini",
     "//01-Projects",
-    "//01-Projects/01-Projects/ADB",
-    "//01-Projects/01-Projects/Agentic Loop"
+    "//01-Projects/01-Projects/ADB/01-Projects/ADB/Wireless ADB"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

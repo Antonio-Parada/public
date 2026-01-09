@@ -11,14 +11,12 @@
             "id": "79d00d726f02c09c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "01-Projects/Agentic Loop/01 - Agent Protocol.md",
-                "mode": "source",
-                "source": false
+                "path": "01-Projects/ADB"
               },
               "icon": "lucide-file",
-              "title": "01 - Agent Protocol"
+              "title": "ADB"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "85bb4184a3c50a51",
+            "id": "6dd59947eae3e7c9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -205,21 +203,24 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "79d00d726f02c09c",
+  "active": "ef6115786eaa0952",
   "lastOpenFiles": [
-    "01-Projects/Agentic Loop/Untitled 1.md",
-    "01-Projects/Agentic Loop/01 - Agent Protocol.md",
-    "01-Projects/Agentic Loop/Untitled.md",
-    "01-Projects/Agentic Loop/Agentic Loop.md",
-    "01-Projects/Cross-Device/Cross-Device.md",
-    "01-Projects/01-Projects.md",
-    "01-Projects/Cross-Device/Input Device - Android Tablet.md",
-    "01-Projects/ADB/Wireless ADB/Wireless ADB.md",
     "01-Projects/ADB/ADB.md",
+    "01-Projects/Agentic Loop/Agentic Loop.md",
+    "01-Projects/Agentic Loop/02 - n8n Workflow Logic.md",
+    "01-Projects/Agentic Loop/03 - Template Structures.md",
+    "01-Projects/ADB/Wireless ADB/Screencasting & Control App/Screencasting & Control App.md",
+    "01-Projects/01-Projects.md",
+    "Tags/Tags.md",
+    "03-Resources/03-Resources.md",
+    "01-Projects/Cross-Device/Input Device - Android Tablet.md",
+    "01-Projects/Agentic Loop/01 - Agent Protocol.md",
+    "01-Projects/Agentic Loop/Untitled 1.md",
+    "01-Projects/Agentic Loop/Untitled.md",
+    "01-Projects/Cross-Device/Cross-Device.md",
+    "01-Projects/ADB/Wireless ADB/Wireless ADB.md",
     "03-Resources/Gemini/Gemini.md",
     "03-Resources/Gemini",
-    "03-Resources/03-Resources.md",
-    "01-Projects/Agentic Loop/02 - n8n Workflow Logic.md",
     "Hello World!.md",
     "01-Projects/ADB/Wireless ADB/Screencasting & Control App/# 04. Installation & Repair Utility.md",
     "01-Projects/ADB/Wireless ADB/Screencasting & Control App/# 03. Hyprland & Omarchy Integration.md",
@@ -228,20 +229,17 @@
     "01-Projects/ADB/Wireless ADB/Screencasting & Control App/# 00. Project Overview Omarchy Android Control Center.md",
     "04-Archives/04-Archives.md",
     "02-Areas/02-Areas.md",
-    "01-Projects/ADB/Wireless ADB/Screencasting & Control App/Screencasting & Control App.md",
     "01-Projects/Cross-Device",
     "01-Projects/ADB/Wireless ADB/Screencasting & Control App/setup.sh",
     "ghostty_config_new",
     "flexoki-light-fixed.conf",
     "gemini-scribe/Agent-Sessions/Agent-Sessions.md",
     "gemini-scribe/Prompts/example-expert.md",
-    "01-Projects/Agentic Loop/03 - Template Structures.md",
     "01-Projects/Agentic Loop",
     "04-Archives",
     "03-Resources",
     "02-Areas",
     "Untitled.md",
-    "01-Projects/ADB/Wireless ADB/Screencasting & Control App/.md",
     "01-Projects/ADB/Wireless ADB/Screencasting & Control App"
   ]
 }
