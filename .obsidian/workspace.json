@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "01-Projects"
+                "path": "03-Resources/OS/Linux/Kali"
               },
               "icon": "lucide-file",
-              "title": "01-Projects"
+              "title": "Kali"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "6dd59947eae3e7c9",
+            "id": "a7661fcf1968b4e9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,43 +203,43 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6dd59947eae3e7c9",
+  "active": "b9e8e42acb773ea0",
   "lastOpenFiles": [
-    "persona.os.md",
-    "Vault Index.md",
-    "Resources/Languages/Python/Libraries/Pandas/Pandas.md",
-    "Resources/Languages/Python/Libraries/NumPy/NumPy.md",
-    "Resources/Languages/Python/Libraries/Matplotlib/Matplotlib.md",
-    "Resources/Languages/JavaScript/Runtime/Node.js/Node.js.md",
-    "Resources/Languages/JavaScript/Frameworks/Express.js/Express.js.md",
-    "Resources/Concepts/Containerization/Docker/Benefits and Use Cases/Benefits and Use Cases.md",
-    "Resources/Concepts/Containerization/Docker/Advanced Dockerfile Concepts/Advanced Dockerfile Concepts.md",
-    "Resources/Languages/Python/Libraries/Pandas",
-    "Resources/Languages/Python/Libraries/NumPy",
-    "Resources/Languages/Python/Libraries/Matplotlib",
-    "Resources/OS/Linux/Kali/Kali.md",
-    "Resources/Languages/JavaScript/Runtime/Node.js",
-    "Resources/Languages/JavaScript/Frameworks/Express.js",
-    "Resources/Languages/JavaScript/Concepts/DOM Manipulation.md",
-    "Resources/Languages/JavaScript/Concepts/Asynchronicity.md",
-    "Resources/Languages/CSharp/Concepts/LINQ.md",
-    "Resources/Languages/CSharp/Concepts/Garbage Collector.md",
-    "Resources/Languages/CSharp/Concepts/Async and Await.md",
-    "Resources/Languages/CSharp/Base Class Library/Base Class Library.md",
-    "Resources/Languages/CPP/STL/STL.md",
-    "Resources/Languages/CPP/Concepts/Templates.md",
-    "Resources/Languages/CPP/Concepts/Memory Management.md",
-    "Resources/Concepts/Containerization/Docker/Docker.md",
-    "Resources/Concepts/Containerization/Docker/Benefits and Use Cases",
-    "Resources/Concepts/Containerization/Docker/Advanced Dockerfile Concepts",
-    "Resources/Tools/tmux-resurrect/tmux-resurrect.md",
-    "Resources/Tools/tmux/tmux.md",
-    "Resources/Tools/i3-resurrect/i3-resurrect.md",
-    "Resources/Tools/Zsh/Zsh.md",
-    "Resources/Tools/Warp/Warp.md",
-    "Resources/Tools/Scapy/Scapy.md",
-    "Resources/Software Configuration/i3 and Chrome Remote Desktop/patch_crd_new.sh",
-    "Resources/OS/Linux/Kali",
-    "Resources/Languages/Python/Libraries"
+    "03-Resources/OS/Linux/Arch/Omarchy/Omarchy.md",
+    "03-Resources/OS/Linux/Arch/Omarchy",
+    "03-Resources/OS/Linux/Debian/Debian.md",
+    "03-Resources/OS/Linux/Debian",
+    "03-Resources/OS/Linux/Debian/Mint/Mint.md",
+    "03-Resources/OS/Linux/Debian/Mint",
+    "03-Resources/OS/Linux/Arch/Arch.md",
+    "03-Resources/Languages/Languages Overview.md",
+    "03-Resources/OS/Linux/Arch",
+    "03-Resources/OS/OS.md",
+    "03-Resources/Languages/Languages.md",
+    "03-Resources/Concepts/Concepts.md",
+    "03-Resources/OS/Linux/Kali/Kali.md",
+    "03-Resources/OS/Linux/Linux.md",
+    "03-Resources/Languages/Bash/Bash.md",
+    "03-Resources/Languages/Bash/Conditional Logic.md",
+    "04-Archives/Archive.md",
+    "03-Resources/Tools/tmux-resurrect/tmux-resurrect.md",
+    "03-Resources/Tools/tmux/tmux.md",
+    "03-Resources/Tools/i3-resurrect/i3-resurrect.md",
+    "03-Resources/Tools/Zsh/Zsh.md",
+    "03-Resources/Tools/Warp/Warp.md",
+    "03-Resources/Tools/Scapy/Scapy.md",
+    "03-Resources/Tools/Nmap/Nmap.md",
+    "03-Resources/Tools/Metasploit/Metasploit.md",
+    "03-Resources/Tools/ESLint/ESLint.md",
+    "03-Resources/Tools/BrowserTools-MCP/Quick-Usage-Guide.md",
+    "03-Resources/Tools/BrowserTools-MCP/BrowserTools-MCP.md",
+    "03-Resources/Tools/Autoprefixer/Autoprefixer.md",
+    "03-Resources/Tools/tmux-resurrect",
+    "03-Resources/Tools/tmux",
+    "03-Resources/Tools/i3-resurrect",
+    "03-Resources/Tools/Zsh",
+    "03-Resources/Tools/Warp",
+    "03-Resources/Tools/Tools Overview.md",
+    "03-Resources/Tools/Scapy"
   ]
 }
