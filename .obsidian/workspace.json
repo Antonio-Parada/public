@@ -203,8 +203,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "b9e8e42acb773ea0",
+  "active": "ef6115786eaa0952",
   "lastOpenFiles": [
+    "03-Resources/OS/Linux/Kali/Kali.md",
     "03-Resources/OS/Linux/Arch/Omarchy/Omarchy.md",
     "03-Resources/OS/Linux/Arch/Omarchy",
     "03-Resources/OS/Linux/Debian/Debian.md",
@@ -217,7 +218,6 @@
     "03-Resources/OS/OS.md",
     "03-Resources/Languages/Languages.md",
     "03-Resources/Concepts/Concepts.md",
-    "03-Resources/OS/Linux/Kali/Kali.md",
     "03-Resources/OS/Linux/Linux.md",
     "03-Resources/Languages/Bash/Bash.md",
     "03-Resources/Languages/Bash/Conditional Logic.md",
