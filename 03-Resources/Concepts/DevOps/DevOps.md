@@ -1,3 +1,6 @@
+---
+sticker: lucide//arrow-up-circle
+---
 # DevOps
 
 #concept

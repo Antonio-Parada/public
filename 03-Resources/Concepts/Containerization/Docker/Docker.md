@@ -1,3 +1,6 @@
+---
+sticker: lucide//ship
+---
 # Docker
 
 Docker is an open-source platform that enables developers to build, ship, and run applications in a consistent and isolated environment using containerization. Containers package an application and all its dependencies (libraries, frameworks, configuration files) into a single, lightweight, and portable unit.

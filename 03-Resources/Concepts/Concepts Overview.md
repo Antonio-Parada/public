@@ -1,3 +1,6 @@
+---
+sticker: lucide//axis-3d
+---
 # Concepts Overview
 
 This directory (`Resources/Concepts/`) serves as a centralized repository for fundamental ideas, principles, methodologies, and abstract topics that are relevant across various domains within the vault.

@@ -1,3 +1,6 @@
+---
+sticker: lucide//scale
+---
 # Design Patterns
 
 Design Patterns are reusable solutions to common problems in software design. They are not ready-to-use code snippets, but rather templates that describe how to solve a problem in various situations. They provide a common vocabulary for developers to discuss solutions.

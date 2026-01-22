@@ -18,4 +18,4 @@ Autoprefixer is a PostCSS plugin that parses CSS and adds vendor prefixes to CSS
 
 *   [[JavaScript/JavaScript]]
 *   [[Resources/Tools/PostCSS/PostCSS]] (Autoprefixer is a PostCSS plugin)
-*   [[Projects/Web Scraping/Firecrawl/Firecrawl]] (uses Autoprefixer for CSS processing)
+*   [[Firecrawl]] (uses Autoprefixer for CSS processing)

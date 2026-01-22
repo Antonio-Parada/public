@@ -1,3 +1,6 @@
+---
+sticker: lucide//git-compare
+---
 # Interlinking
 
 Interlinking, also known as wikilinking, is a fundamental practice within this Obsidian vault to create a robust and interconnected knowledge graph. It involves creating internal links between related notes.

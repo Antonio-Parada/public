@@ -1,3 +1,6 @@
+---
+sticker: lucide//parking-square
+---
 # GEMINI.md - Guidelines for LLM Agent Contribution to the Iidian Vault
 
 This document outlines the principles and practices for the LLM agent contributing to the Iidian Obsidian vault. Adhering to these guidelines ensures consistency, maintainability, and effective knowledge organization.

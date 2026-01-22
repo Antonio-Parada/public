@@ -1,3 +1,6 @@
+---
+sticker: lucide//arrow-up-right-from-circle
+---
 # OS Overview
 
 This directory (`Resources/OS/`) serves as a centralized repository for documentation related to various operating systems.

@@ -1,3 +1,6 @@
+---
+sticker: lucide//align-start-horizontal
+---
 # Vault Index
 
 This index provides a comprehensive overview of all notes within the vault, organized according to the PARA method.

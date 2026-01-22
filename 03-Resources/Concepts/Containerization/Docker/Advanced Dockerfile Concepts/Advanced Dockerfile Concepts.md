@@ -1,3 +1,6 @@
+---
+sticker: lucide//anchor
+---
 # Advanced Dockerfile Concepts
 
 Beyond basic instructions, Dockerfiles offer advanced features and best practices for building optimized images.

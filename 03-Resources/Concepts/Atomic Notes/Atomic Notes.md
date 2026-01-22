@@ -1,3 +1,6 @@
+---
+sticker: lucide//sticky-note
+---
 # Atomic Notes
 
 Atomic notes are a core principle of effective knowledge management within this vault. Each note should ideally focus on a single, distinct concept, idea, or piece of information.

@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bf8ea7c829cd91fa",
+        "id": "bc8053eece020e45",
         "type": "tabs",
         "children": [
           {
-            "id": "79d00d726f02c09c",
+            "id": "135556d5cf7164d3",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "03-Resources/OS/Linux/Kali"
+                "path": "04-Archives/Rapid-UI-Protoyper"
               },
               "icon": "lucide-file",
-              "title": "Kali"
+              "title": "Rapid-UI-Protoyper"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "a7661fcf1968b4e9",
+            "id": "b01c77b2fa0ece3f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,43 +203,43 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "ef6115786eaa0952",
+  "active": "135556d5cf7164d3",
   "lastOpenFiles": [
-    "03-Resources/OS/Linux/Kali/Kali.md",
-    "03-Resources/OS/Linux/Arch/Omarchy/Omarchy.md",
-    "03-Resources/OS/Linux/Arch/Omarchy",
-    "03-Resources/OS/Linux/Debian/Debian.md",
-    "03-Resources/OS/Linux/Debian",
-    "03-Resources/OS/Linux/Debian/Mint/Mint.md",
-    "03-Resources/OS/Linux/Debian/Mint",
-    "03-Resources/OS/Linux/Arch/Arch.md",
-    "03-Resources/Languages/Languages Overview.md",
-    "03-Resources/OS/Linux/Arch",
-    "03-Resources/OS/OS.md",
-    "03-Resources/Languages/Languages.md",
-    "03-Resources/Concepts/Concepts.md",
-    "03-Resources/OS/Linux/Linux.md",
-    "03-Resources/Languages/Bash/Bash.md",
-    "03-Resources/Languages/Bash/Conditional Logic.md",
+    "04-Archives/Rapid-UI-Protoyper/Rapid-UI-Protoyper.md",
     "04-Archives/Archive.md",
-    "03-Resources/Tools/tmux-resurrect/tmux-resurrect.md",
-    "03-Resources/Tools/tmux/tmux.md",
-    "03-Resources/Tools/i3-resurrect/i3-resurrect.md",
-    "03-Resources/Tools/Zsh/Zsh.md",
-    "03-Resources/Tools/Warp/Warp.md",
-    "03-Resources/Tools/Scapy/Scapy.md",
-    "03-Resources/Tools/Nmap/Nmap.md",
-    "03-Resources/Tools/Metasploit/Metasploit.md",
-    "03-Resources/Tools/ESLint/ESLint.md",
-    "03-Resources/Tools/BrowserTools-MCP/Quick-Usage-Guide.md",
-    "03-Resources/Tools/BrowserTools-MCP/BrowserTools-MCP.md",
-    "03-Resources/Tools/Autoprefixer/Autoprefixer.md",
-    "03-Resources/Tools/tmux-resurrect",
-    "03-Resources/Tools/tmux",
-    "03-Resources/Tools/i3-resurrect",
-    "03-Resources/Tools/Zsh",
-    "03-Resources/Tools/Warp",
-    "03-Resources/Tools/Tools Overview.md",
-    "03-Resources/Tools/Scapy"
+    "Vault Index.md",
+    "$tart.md",
+    "04-Archives/04-Archives.md",
+    "04-Archives/i3 and Chrome Remote Desktop/i3 and Chrome Remote Desktop Technology.md",
+    "i3 Window Manager.md",
+    "04-Archives/i3 and Chrome Remote Desktop/i3 and Chrome Remote Desktop Setup Guide.md",
+    "04-Archives/i3 and Chrome Remote Desktop/i3 and Chrome Remote Desktop.md",
+    "03-Resources/Software Configuration/Software Configuration.md",
+    "03-Resources/OS/OS Overview.md",
+    "03-Resources/OS/Windows/WSL/WSL.md",
+    "03-Resources/OS/Windows/WSL",
+    "03-Resources/OS/Windows/Windows.md",
+    "03-Resources/OS/Windows",
+    "03-Resources/OS/Linux/Possibly Linux/Android/Android.md",
+    "03-Resources/OS/Linux/Possibly Linux/Android",
+    "03-Resources/Concepts/Containerization/Containerization.md",
+    "03-Resources/Concepts/Design Patterns/Design Patterns.md",
+    "03-Resources/Concepts/Dotfiles/Dotfiles.md",
+    "03-Resources/Concepts/Concepts Overview.md",
+    "03-Resources/Concepts/Containerization/Docker/Benefits and Use Cases/Benefits and Use Cases.md",
+    "03-Resources/Concepts/Containerization/Docker/Advanced Dockerfile Concepts/Advanced Dockerfile Concepts.md",
+    "03-Resources/OS/Linux/Possibly Linux/ChromeOS/Crostini/Cros-Composition (literal).md",
+    "03-Resources/Concepts/API Design/API Design.md",
+    "GEMINI.md",
+    "persona.os.md",
+    "01-Projects/roku-cli/roku-cli.md",
+    "01-Projects/ADB/ADB.md",
+    "03-Resources/OS/Linux/Possibly Linux/ChromeOS/Crostini",
+    "03-Resources/OS/Linux/Possibly Linux/ChromeOS",
+    "03-Resources/OS/Linux/Definitely Linux",
+    "03-Resources/OS/Linux/Possibly Linux",
+    "03-Resources/OS/Linux/Definitely Linux/Arch/Omarchy",
+    "03-Resources/OS/Linux/Definitely Linux/Debian",
+    "03-Resources/OS/Linux/Definitely Linux/Debian/Mint"
   ]
 }

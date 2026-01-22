@@ -19,4 +19,4 @@ ESLint is a pluggable linting utility for JavaScript and JSX. It helps developer
 ## Cross-References
 
 *   [[JavaScript/JavaScript]]
-*   [[Projects/Web Scraping/Firecrawl/Firecrawl]] (uses ESLint for linting)
+*   [[Firecrawl]] (uses ESLint for linting)

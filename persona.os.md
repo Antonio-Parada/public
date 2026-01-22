@@ -1,3 +1,6 @@
+---
+sticker: lucide//asterisk
+---
 # User Persona: [User's Name/Identifier]
 
 This document defines the user's persona to guide the LLM agent's research, workflow, and interaction style within this Personal Knowledge Vault.

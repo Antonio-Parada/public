@@ -1,3 +1,6 @@
+---
+sticker: lucide//alarm-clock
+---
 # Archive
 
 This directory is for completed projects or areas that are no longer active but you wish to retain for reference.

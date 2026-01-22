@@ -1,3 +1,6 @@
+---
+sticker: lucide//alert-triangle
+---
 # Personal Knowledge Vault: A Personal Knowledge Management System
 
 This repository houses my personal knowledge management (PKM) system, built using Obsidian.md. It serves as a demonstration of my approach to continuous learning, knowledge organization, and deep technical expertise.

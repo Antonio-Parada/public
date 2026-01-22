@@ -1,3 +1,6 @@
+---
+sticker: lucide//git-branch
+---
 # Docker Benefits and Use Cases
 
 Docker provides significant advantages for application development, deployment, and management.

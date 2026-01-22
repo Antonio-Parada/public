@@ -1,3 +1,6 @@
+---
+sticker: lucide//arrow-up-down
+---
 # Changelog
 
 This document records significant modifications made to this Personal Knowledge Vault by the LLM agent.

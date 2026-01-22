@@ -1,4 +1,7 @@
-# Welcome to Your Knowledge Vault!
+---
+sticker: lucide//bitcoin
+---
+# Welcome to My Knowledge Vault!
 
 ## LLM Agent Initialization
 
