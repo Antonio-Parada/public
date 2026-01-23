@@ -1,0 +1,43 @@
+# 05: UX & Aesthetic Alignment
+**Design Language:** Flexoki (Light)  
+**Target:** Global Workspace Synchronization
+
+---
+
+## 1. Design Philosophy
+For this workstation, the **Flexoki** color scheme was selected. Unlike standard high-contrast light modes, Flexoki is designed for long-term clinical legibility, reducing eye strain during extended development sessions. 
+
+The goal was to achieve **Visual Parity** across three distinct layers:
+1.  **The Window Manager (i3):** Frame and border accents.
+2.  **The Terminal (Kitty):** Background and ANSI color definitions.
+3.  **The Editor (Neovim/NvChad):** Syntax highlighting and UI components.
+
+
+
+## 2. Implementation Specifications
+
+### Terminal Layer (Kitty)
+The terminal acts as the foundation for the editor's background. By configuring `kitty.conf` to Flexoki-Light, we establish the "Paper" baseline for the workspace.
+* **Background:** `#FFFCF0`
+* **Foreground:** `#100F0F`
+
+### Editor Layer (NvChad)
+The editor was aligned using the `onelight` theme architecture. This ensures that the file explorer (NvimTree), the status line, and the buffer tabs share a unified luminance level and color temperature.
+
+| Component | Setting | Implementation |
+| :--- | :--- | :--- |
+| **Theme** | `onelight` | NvChad Base46 Engine |
+| **Background** | `light` | Native Neovim Global Option |
+| **Transparency** | `false` | Disabled for color accuracy |
+
+
+
+## 3. Results & Ergonomics
+The transition to a synchronized Flexoki-Light setup resulted in:
+* **Improved Legibility:** Superior syntax distinction in various ambient lighting conditions.
+* **System Consistency:** Zero visual "jitter" when switching between the terminal and system windows.
+* **Ergonomic Baseline:** A clean, "analogue" aesthetic that mimics high-quality print, optimized for code reviews and documentation.
+
+---
+
+
