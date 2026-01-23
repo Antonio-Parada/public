@@ -218,8 +218,17 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "550f6cf85f5e0cdd",
+  "active": "ef6115786eaa0952",
   "lastOpenFiles": [
+    "06_Architecture_Deep_Dive.md",
+    "01-Projects/chrome_os/i3_on_chromeos/05_UX_and_Aesthetic_Alignment",
+    "01-Projects/chrome_os/i3_on_chromeos/04_Clipboard_IPC_Bridge.md",
+    "01-Projects/chrome_os/i3_on_chromeos/03_Input_Mapping_Hardware.md",
+    "01-Projects/chrome_os/i3_on_chromeos/02_Architecture_Xephyr_Nesting.md",
+    "01-Projects/chrome_os/i3_on_chromeos/01_Wayland_Passthrough_PostMortem.md",
+    "01-Projects/chrome_os/i3_on_chromeos/00_Executive_Summary.md",
+    "01-Projects/chrome_os/i3_on_chromeos",
+    "01-Projects/chrome_os",
     "01-Projects/Agentic Loop/Agentic Loop.md",
     "04-Archives/Rapid-UI-Protoyper/Rapid-UI-Protoyper.md",
     "01-Projects/Cross-Device/Input Device - Android Tablet.md",
@@ -240,21 +249,12 @@
     "04-Archives/04-Archives.md",
     "04-Archives/i3 and Chrome Remote Desktop/i3 and Chrome Remote Desktop Technology.md",
     "i3 Window Manager.md",
-    "04-Archives/i3 and Chrome Remote Desktop/i3 and Chrome Remote Desktop Setup Guide.md",
-    "04-Archives/i3 and Chrome Remote Desktop/i3 and Chrome Remote Desktop.md",
-    "03-Resources/Software Configuration/Software Configuration.md",
-    "03-Resources/OS/OS Overview.md",
-    "03-Resources/OS/Windows/WSL/WSL.md",
     "03-Resources/OS/Windows/WSL",
-    "03-Resources/OS/Windows/Windows.md",
     "03-Resources/OS/Windows",
     "03-Resources/OS/Linux/Possibly Linux/Android",
     "03-Resources/OS/Linux/Possibly Linux/ChromeOS/Crostini",
     "03-Resources/OS/Linux/Possibly Linux/ChromeOS",
     "03-Resources/OS/Linux/Definitely Linux",
-    "03-Resources/OS/Linux/Possibly Linux",
-    "03-Resources/OS/Linux/Definitely Linux/Arch/Omarchy",
-    "03-Resources/OS/Linux/Definitely Linux/Debian",
-    "03-Resources/OS/Linux/Definitely Linux/Debian/Mint"
+    "03-Resources/OS/Linux/Possibly Linux"
   ]
 }
