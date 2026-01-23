@@ -40,7 +40,6 @@
   "expandedSpaces": [
     "//gemini-scribe/gemini-scribe/Agent-Sessions",
     "//Tags",
-    "//01-Projects/01-Projects/ADB/01-Projects/ADB/Wireless ADB",
     "//Projects/Projects/AI",
     "//Projects/Projects/Picos",
     "//Projects/Projects/Picos/Projects/Picos/PG",
@@ -53,9 +52,6 @@
     "//Areas/Areas/Software Development",
     "//Areas/Areas/Content Creation",
     "//03-Resources/03-Resources/OS/03-Resources/OS/Linux/03-Resources/OS/Linux/Kali",
-    "//01-Projects/01-Projects/adb",
-    "//01-Projects/01-Projects/adb/01-Projects/adb/adb",
-    "//01-Projects/01-Projects/ADB",
     "//03-Resources/03-Resources/OS/03-Resources/OS/Linux/03-Resources/OS/Linux/Possibly Linux/03-Resources/OS/Linux/Possibly Linux/ChromeOS/03-Resources/OS/Linux/Possibly Linux/ChromeOS/Crostini",
     "//03-Resources/03-Resources/Concepts/03-Resources/Concepts/Containerization/03-Resources/Concepts/Containerization/Docker",
     "//03-Resources/03-Resources/Concepts/03-Resources/Concepts/Containerization/03-Resources/Concepts/Containerization/Docker/03-Resources/Concepts/Containerization/Docker/Advanced Dockerfile Concepts",
@@ -68,9 +64,9 @@
     "/",
     "//02-Areas",
     "//01-Projects",
-    "//03-Resources",
-    "//04-Archives",
-    "//04-Archives/04-Archives/Rapid-UI-Protoyper"
+    "//01-Projects/01-Projects/adb",
+    "//01-Projects/01-Projects/Agentic Loop",
+    "//01-Projects/01-Projects/AI"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
