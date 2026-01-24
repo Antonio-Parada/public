@@ -66,7 +66,8 @@
     "//01-Projects",
     "//01-Projects/01-Projects/adb",
     "//01-Projects/01-Projects/Agentic Loop",
-    "//01-Projects/01-Projects/AI"
+    "//01-Projects/01-Projects/AI",
+    "//01-Projects/01-Projects/Cross-Device"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -78,6 +79,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
