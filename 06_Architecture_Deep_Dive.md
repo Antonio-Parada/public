@@ -1,3 +1,6 @@
+---
+sticker: lucide//atom
+---
 # 06: Architecture - The Penguin Pipeline
 **Vision:** Full Host-Guest State Orchestration
 
