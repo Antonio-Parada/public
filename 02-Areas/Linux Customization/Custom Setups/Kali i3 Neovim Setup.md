@@ -1,3 +1,6 @@
+---
+sticker: lucide//siren
+---
 # Kali i3 Neovim Setup
 
 This note details an integrated Linux customization setup combining Kali Linux as the operating system, i3 as the tiling window manager, and Neovim with a custom Lua configuration as the primary text editor/IDE. This setup is geared towards efficiency, keyboard-driven workflow, and a powerful development environment, particularly for cybersecurity and software development tasks.

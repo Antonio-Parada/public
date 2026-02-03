@@ -1,3 +1,6 @@
+---
+sticker: lucide//fingerprint
+---
 # Configuration Management Scripts
 
 This note provides examples and best practices for creating scripts to manage and package your Linux configurations, often referred to as dotfiles. These scripts are essential for maintaining consistency across multiple machines, simplifying setup for new systems, and version controlling your personalized environment.

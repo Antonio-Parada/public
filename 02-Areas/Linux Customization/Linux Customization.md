@@ -1,3 +1,6 @@
+---
+sticker: lucide//copyright
+---
 # Linux Customization
 
 Linux customization is the process of tailoring your Linux operating system to fit your personal preferences, workflow, and aesthetic desires. This involves configuring various components, from the graphical interface to command-line tools and system behaviors, to create a highly personalized and efficient computing environment.

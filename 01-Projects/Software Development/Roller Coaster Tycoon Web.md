@@ -1,0 +1,3 @@
+---
+sticker: lucide//russian-ruble
+---

@@ -1,3 +1,6 @@
+---
+sticker: lucide//boxes
+---
 # Neovim Lua Configuration
 
 Neovim's native Lua scripting capabilities allow for highly flexible and powerful customization. This note details how Lua configurations are structured, managed, and integrated within a Neovim setup, particularly in the context of dotfiles.

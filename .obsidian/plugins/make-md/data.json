@@ -62,10 +62,12 @@
     "//03-Resources/03-Resources/Gemini",
     "//03-Resources/03-Resources/Software Configuration",
     "/",
-    "//02-Areas",
     "//01-Projects",
     "//01-Projects/01-Projects/adb",
-    "//01-Projects/01-Projects/Agentic Loop"
+    "//01-Projects/01-Projects/Agentic Loop",
+    "//02-Areas/02-Areas/Linux Customization/02-Areas/Linux Customization/Dotfiles Management",
+    "//02-Areas/02-Areas/Linux Customization/02-Areas/Linux Customization/Configuration Management Scripts/02-Areas/Linux Customization/Configuration Management Scripts/Dotfiles Management",
+    "//04-Archives"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

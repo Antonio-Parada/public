@@ -1,3 +1,6 @@
+---
+sticker: lucide//filter
+---
 # Dotfiles Management
 
 Dotfiles management refers to the practice of organizing, version controlling, and synchronizing your configuration files (dotfiles) across different machines. These files, typically hidden files in your home directory (e.g., `.bashrc`, `.zshrc`, `.gitconfig`, `~/.config/nvim/init.lua`), define your personalized environment. Effective dotfiles management is crucial for maintaining consistency, simplifying new machine setups, and ensuring reproducibility of your development environment.

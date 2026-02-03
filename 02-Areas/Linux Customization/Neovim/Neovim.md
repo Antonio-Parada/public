@@ -1,3 +1,6 @@
+---
+sticker: lucide//axe
+---
 # Neovim
 
 Neovim is a hyper-extensible Vim-based text editor that aims to improve the user experience, plugin capabilities, and integration with modern tools. It is a refactor of Vim, designed for extensibility and usability, particularly through its native Lua scripting capabilities.
