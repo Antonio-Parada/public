@@ -64,7 +64,8 @@
     "/",
     "//02-Areas",
     "//01-Projects",
-    "//01-Projects/01-Projects/adb"
+    "//01-Projects/01-Projects/adb",
+    "//01-Projects/01-Projects/Agentic Loop"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

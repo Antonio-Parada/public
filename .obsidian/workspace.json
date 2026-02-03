@@ -23,12 +23,14 @@
             "id": "550f6cf85f5e0cdd",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "01-Projects/Cross-Device"
+                "file": "01-Projects/Agentic Loop/01 - Agent Protocol.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross-Device"
+              "title": "01 - Agent Protocol"
             }
           }
         ],
@@ -216,7 +218,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "0a216ef2db19bae2",
+  "active": "550f6cf85f5e0cdd",
   "lastOpenFiles": [
     "01-Projects/Cross-Device/Cross-Device.md",
     "01-Projects/Cross-Device/Input Device - Android Tablet.md",
